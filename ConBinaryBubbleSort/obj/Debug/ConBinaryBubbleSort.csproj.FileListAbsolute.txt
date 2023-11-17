@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day10\ConBinaryBubbleSort\ConBinaryBubbleSort\bin\Debug\ConBinaryBubbleSort.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day10\ConBinaryBubbleSort\ConBinaryBubbleSort\bin\Debug\ConBinaryBubbleSort.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day10\ConBinaryBubbleSort\ConBinaryBubbleSort\bin\Debug\ConBinaryBubbleSort.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day10\ConBinaryBubbleSort\ConBinaryBubbleSort\obj\Debug\ConBinaryBubbleSort.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day10\ConBinaryBubbleSort\ConBinaryBubbleSort\obj\Debug\ConBinaryBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day10\ConBinaryBubbleSort\ConBinaryBubbleSort\obj\Debug\ConBinaryBubbleSort.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day10\ConBinaryBubbleSort\ConBinaryBubbleSort\obj\Debug\ConBinaryBubbleSort.pdb
